@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: GIF
+- text: WAV
+- text: JPEG
+- text: PNG
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/21739#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 12 Sep 2022 14:03:45 UTC
+record: -1
+selected_options:
+- 0
+- 2
+- 3
+local_check: false

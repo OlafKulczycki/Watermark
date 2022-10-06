@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Assertion" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Best practices" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Development approach" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Find the error" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Proper tools" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Right assertions" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
+            <option value="$PROJECT_DIR$/Topics/File hierarchies/Create file hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/File hierarchies/File or directory" />
+            <option value="$PROJECT_DIR$/Topics/File hierarchies/Theory" />
+            <option value="$PROJECT_DIR$/Topics/File hierarchies/What happens here" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Continuation-Passing Style" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Kotlin function type" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing a polygon" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing four circles" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing two lines" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Supported formats" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/ Not  predicate" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Max" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Polynomial" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Range multiplication" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Busy internship" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Heroes and villains" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Improve your vehicle" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Nested or inner" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/New Inner class" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Blocks in a box" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Library" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Manager" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Properties" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Cutting out the middle of a string" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value (1)" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Double characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Lucky number" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Palindrome" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Parse url" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/The percentage of G and C characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Barista problem" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Creating news" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Frozen desserts" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Spot the error" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/This keyword" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/A function for reading data" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Four numbers" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Read and print" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Scanner" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Successful reading" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/The suitable inputs" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Duplication" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/writeText()" />
+            <option value="$PROJECT_DIR$/Watermark/task" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/tmp" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

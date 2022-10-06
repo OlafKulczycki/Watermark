@@ -1,0 +1,47 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    class Intern(val weeklyWorkload: Int) {
+        val baseWorkload = 20
+
+        class Salary {
+            val basePay = 50
+            val extraHoursPay = 2.8
+        }
+
+        val weeklySalary = ...
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14732#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    main.kt:15:1: error: conflicting overloads: public fun main(): Unit defined in root package in file main.kt, public fun main(): Unit defined in root package in file main.kt
+    fun main() {
+    ^
+    main.kt:18:1: error: conflicting overloads: public fun main(): Unit defined in root package in file main.kt, public fun main(): Unit defined in root package in file main.kt
+    fun main() {
+    ^
+    main.kt:23:87: error: constructor of inner class Salary can be called only with receiver of containing class
+        if (intern.weeklySalary == (intern.weeklyWorkload - intern.baseWorkload) * Intern.Salary().extraHoursPay + Intern.Salary().basePay
+                                                                                          ^
+    main.kt:23:119: error: constructor of inner class Salary can be called only with receiver of containing class
+        if (intern.weeklySalary == (intern.weeklyWorkload - intern.baseWorkload) * Intern.Salary().extraHoursPay + Intern.Salary().basePay
+                                                                                                                          ^
+    main.kt:24:92: error: constructor of inner class Salary can be called only with receiver of containing class
+            && intern1.weeklySalary == (intern1.weeklyWorkload - intern.baseWorkload) * Intern.Salary().extraHoursPay + Intern.Salary().basePay
+                                                                                               ^
+    main.kt:24:124: error: constructor of inner class Salary can be called only with receiver of containing class
+            && intern1.weeklySalary == (intern1.weeklyWorkload - intern.baseWorkload) * Intern.Salary().extraHoursPay + Intern.Salary().basePay
+                                                                                                                               ^
+    main.kt:25:92: error: constructor of inner class Salary can be called only with receiver of containing class
+            && intern2.weeklySalary == (intern2.weeklyWorkload - intern.baseWorkload) * Intern.Salary().extraHoursPay + Intern.Salary().basePay)
+                                                                                               ^
+    main.kt:25:124: error: constructor of inner class Salary can be called only with receiver of containing class
+            && intern2.weeklySalary == (intern2.weeklyWorkload - intern.baseWorkload) * Intern.Salary().extraHoursPay + Intern.Salary().basePay)
+                                                                                                                               ^
+  time: Thu, 15 Sep 2022 11:22:49 UTC
+record: -1

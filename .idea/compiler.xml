@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Watermark.Topics-Debugging_techniques-Assertion.main" target="11" />
+      <module name="Watermark.Topics-Debugging_techniques-Best_practices.main" target="11" />
+      <module name="Watermark.Topics-Debugging_techniques-Development_approach.main" target="11" />
+      <module name="Watermark.Topics-Debugging_techniques-Find_the_error.main" target="11" />
+      <module name="Watermark.Topics-Debugging_techniques-Proper_tools.main" target="11" />
+      <module name="Watermark.Topics-Debugging_techniques-Right_assertions.main" target="11" />
+      <module name="Watermark.Topics-Debugging_techniques-Theory.main" target="11" />
+      <module name="Watermark.Topics-File_hierarchies-Create_file_hierarchy.main" target="11" />
+      <module name="Watermark.Topics-File_hierarchies-File_or_directory.main" target="11" />
+      <module name="Watermark.Topics-File_hierarchies-Theory.main" target="11" />
+      <module name="Watermark.Topics-File_hierarchies-What_happens_here.main" target="11" />
+      <module name="Watermark.Topics-Functions_as_objects-Continuation-Passing_Style.main" target="11" />
+      <module name="Watermark.Topics-Functions_as_objects-Kotlin_function_type.main" target="11" />
+      <module name="Watermark.Topics-Functions_as_objects-Theory.main" target="11" />
+      <module name="Watermark.Topics-Image_libraries-Drawing_a_polygon.main" target="11" />
+      <module name="Watermark.Topics-Image_libraries-Drawing_four_circles.main" target="11" />
+      <module name="Watermark.Topics-Image_libraries-Drawing_two_lines.main" target="11" />
+      <module name="Watermark.Topics-Image_libraries-Supported_formats.main" target="11" />
+      <module name="Watermark.Topics-Image_libraries-Theory.main" target="11" />
+      <module name="Watermark.Topics-Lambda_expressions-_Not__predicate.main" target="11" />
+      <module name="Watermark.Topics-Lambda_expressions-Max.main" target="11" />
+      <module name="Watermark.Topics-Lambda_expressions-Polynomial.main" target="11" />
+      <module name="Watermark.Topics-Lambda_expressions-Range_multiplication.main" target="11" />
+      <module name="Watermark.Topics-Lambda_expressions-Theory.main" target="11" />
+      <module name="Watermark.Topics-Nested_and_inner_classes-Busy_internship.main" target="11" />
+      <module name="Watermark.Topics-Nested_and_inner_classes-Heroes_and_villains.main" target="11" />
+      <module name="Watermark.Topics-Nested_and_inner_classes-Improve_your_vehicle.main" target="11" />
+      <module name="Watermark.Topics-Nested_and_inner_classes-Nested_or_inner.main" target="11" />
+      <module name="Watermark.Topics-Nested_and_inner_classes-New_Inner_class.main" target="11" />
+      <module name="Watermark.Topics-Nested_and_inner_classes-Theory.main" target="11" />
+      <module name="Watermark.Topics-Object_declarations-Blocks_in_a_box.main" target="11" />
+      <module name="Watermark.Topics-Object_declarations-Library.main" target="11" />
+      <module name="Watermark.Topics-Object_declarations-Manager.main" target="11" />
+      <module name="Watermark.Topics-Object_declarations-Properties.main" target="11" />
+      <module name="Watermark.Topics-Object_declarations-Theory.main" target="11" />
+      <module name="Watermark.Topics-Processing_strings-Cutting_out_the_middle_of_a_string.main" target="11" />
+      <module name="Watermark.Topics-Processing_strings-Determine_the_output.main" target="11" />
+      <module name="Watermark.Topics-Processing_strings-Determine_the_value.main" target="11" />
+      <module name="Watermark.Topics-Processing_strings-Determine_the_value__1_.main" target="11" />
+      <module name="Watermark.Topics-Processing_strings-Double_characters.main" target="11" />
+      <module name="Watermark.Topics-Processing_strings-Lucky_number.main" target="11" />
+      <module name="Watermark.Topics-Processing_strings-Palindrome.main" target="11" />
+      <module name="Watermark.Topics-Processing_strings-Parse_url.main" target="11" />
+      <module name="Watermark.Topics-Processing_strings-The_percentage_of_G_and_C_characters.main" target="11" />
+      <module name="Watermark.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Watermark.Topics-Secondary_constructor-Barista_problem.main" target="11" />
+      <module name="Watermark.Topics-Secondary_constructor-Creating_news.main" target="11" />
+      <module name="Watermark.Topics-Secondary_constructor-Frozen_desserts.main" target="11" />
+      <module name="Watermark.Topics-Secondary_constructor-Spot_the_error.main" target="11" />
+      <module name="Watermark.Topics-Secondary_constructor-Theory.main" target="11" />
+      <module name="Watermark.Topics-Secondary_constructor-This_keyword.main" target="11" />
+      <module name="Watermark.Topics-Standard_input-A_function_for_reading_data.main" target="11" />
+      <module name="Watermark.Topics-Standard_input-Four_numbers.main" target="11" />
+      <module name="Watermark.Topics-Standard_input-Read_and_print.main" target="11" />
+      <module name="Watermark.Topics-Standard_input-Scanner.main" target="11" />
+      <module name="Watermark.Topics-Standard_input-Statements.main" target="11" />
+      <module name="Watermark.Topics-Standard_input-Successful_reading.main" target="11" />
+      <module name="Watermark.Topics-Standard_input-The_suitable_inputs.main" target="11" />
+      <module name="Watermark.Topics-Standard_input-Theory.main" target="11" />
+      <module name="Watermark.Topics-Writing_files-Duplication.main" target="11" />
+      <module name="Watermark.Topics-Writing_files-Theory.main" target="11" />
+      <module name="Watermark.Topics-Writing_files-writeText__.main" target="11" />
+      <module name="Watermark.util.main" target="11" />
+      <module name="Watermark.Watermark-task-build-classes-kotlin.main" target="11" />
+      <module name="Watermark.Watermark-task-build-reports-tests.main" target="11" />
+      <module name="Watermark.Watermark-task-build-test-results.main" target="11" />
+      <module name="Watermark.Watermark-task-build-tmp.main" target="11" />
+      <module name="Watermark.Watermark-task.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
